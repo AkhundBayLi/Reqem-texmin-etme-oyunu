@@ -69,14 +69,14 @@ Aşağıdakı şəkildə oyunun əsas interfeysini görə bilərsiniz:
 
 ## 📂 Fayl strukturu
 
-    project-folder/
+    src/
     │
     ├── index.html
     ├── style.css
     ├── app.js
-    └── screenshots/
-          ├── screen1.png
-          └── screen2.png
+    └── img/
+          ├── ss-1.png
+          └── ss-2.png
 
 ------------------------------------------------------------------------
 
